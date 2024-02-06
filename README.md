@@ -11,7 +11,7 @@
 
 
 ## Encontre-me:
-![image](https://www.linkedin.com/in/camilla-v-044121266/)   
+   
 
 <br> 
 
