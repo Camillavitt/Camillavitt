@@ -1,7 +1,8 @@
  # Workshop de ReadMe 
 -------
 
-<img align="left" src="https://github.com/Camillavitt/Camillavitt/assets/146959549/ae849cda-37b1-4860-8123-9e7790ce9c4f" width="320px" height="420px">
+<img align="left" src="![image](https://github.com/Camillavitt/Camillavitt/assets/146959549/16b848a6-a629-408d-8eee-0936dc8dbb7a)
+" width="320px" height="420px">
 
 ## Olá, mundo! Estou fazendo um curso de programação web full-stack no Instituto da Oportunidade Social.
  
